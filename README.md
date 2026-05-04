@@ -35,7 +35,7 @@ This project explores an online retail dataset to analyze revenue trends, custom
 ---
 
 ## 📊 Dashboard
-![Dashboard](Dashboard_retail.pdf)
+![Dashboard](Dashboard_retail.png)
 👉 [View Tableau Dashboard](https://public.tableau.com/views/E-commerseSalesdashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
