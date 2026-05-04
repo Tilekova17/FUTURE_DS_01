@@ -81,18 +81,7 @@ You can access the dataset here:
 
 ---
 
-## 📌 Project Structure
-
-```bash
-data/
-notebooks/
-analysis.ipynb
-README.md
-```
-
----
-
-## 👀 Next Steps
+## Next Steps
 
 * Add more advanced customer segmentation
 * Build predictive models (e.g., customer lifetime value)
