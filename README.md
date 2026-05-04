@@ -44,7 +44,7 @@ This project explores an online retail dataset to analyze revenue trends, custom
 Due to file size limitations, the cleaned dataset is not included in this repository.
 
 You can access the dataset here:
-👉 [Download Data](PASTE_YOUR_LINK_HERE)
+👉 [Download Data](https://www.kaggle.com/datasets/azhartilekova/cleaned-onlineretail-data)
 
 ---
 
