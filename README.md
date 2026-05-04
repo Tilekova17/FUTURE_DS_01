@@ -18,10 +18,11 @@ This project explores an online retail dataset to analyze revenue trends, custom
 
 ## 📈 Key Insights
 
-* Revenue shows strong growth toward the end of the year (seasonality effect)
-* A small group of customers generates a large share of total revenue
-* Top products contribute disproportionately to overall sales
-* Customer retention drops significantly after the first purchase
+* Revenue shows clear seasonality, peaking in November (~1.15M), indicating strong Q4 performance
+* The top 10 customers generate approximately **17% of total revenue**, highlighting high customer concentration
+* A small number of products dominate sales, with the top product generating over **160K in revenue**
+* Customer spending is highly skewed: the average revenue per customer (~2048) is significantly higher than the median (~668), indicating the presence of high-value clients
+* Cohort analysis shows that over **70% of customers do not return after their first purchase**, suggesting weak customer retention
 
 ---
 
